@@ -2,3 +2,4 @@ hello there!User1 from branch master
 You were my brother, Anaken!
 line from user2
 line from user1
+line from user1 - rebase lesson
